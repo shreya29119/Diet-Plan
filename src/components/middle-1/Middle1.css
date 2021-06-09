@@ -1,0 +1,58 @@
+#main,
+#middle,
+#last {
+  display: flex;
+  margin-top: 100px;
+}
+
+#p {
+  color: #878282;
+  font-weight: 600;
+  margin-top: 40px;
+}
+
+#p1 {
+  color: #878282;
+  font-weight: 600;
+}
+
+#button {
+  background-color: #000;
+  width: 180px;
+  padding-bottom: 10px;
+}
+
+#span2 {
+  font-weight: 700;
+  color: #5cb163;
+}
+
+#img {
+  margin-left: 40px;
+}
+
+#div1 {
+  width: 45px;
+  height: 4px;
+  background: black;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+#social {
+  margin-top: 90px;
+}
+
+#span {
+  font-weight: 500;
+  color: #878282;
+}
+
+#span-2 {
+  font-weight: 500;
+  color: #5cb163;
+}
+
+.text1 {
+  margin-top: 70px;
+}

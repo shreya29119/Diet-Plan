@@ -1,0 +1,46 @@
+#h1 {
+  font-weight: bolder;
+  font-size: 40px;
+  color: #000;
+  margin-left: 10px;
+}
+
+#s-img {
+  width: 40px;
+  margin-right: 50px;
+}
+
+#footer {
+  margin-top: 150px;
+}
+
+.div {
+  display: flex;
+  flex: 0 0 0 22%;
+  justify-content: space-between;
+}
+
+ul > li {
+  list-style: none;
+}
+
+#p1 {
+  color: #000;
+  font-weight: 700;
+  margin-top: 40px;
+}
+
+#img2 {
+  width: 20px;
+  display: inline-block;
+}
+
+#p2 {
+  color: #878282;
+  display: inline-block;
+  margin-left: 2px;
+  font-weight: 500;
+  font-size: 20px;
+  padding-left: 5px;
+  padding-top: 3px;
+}
